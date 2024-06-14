@@ -1112,7 +1112,7 @@ class BlinkAPI {
      */
 
     async getSirens() {
-        return await this.get(`/sirens`);
+        return null;// await this.get(`/api/v1/sirens`);
     }
 
     async getNetworkSirens(networkID) {

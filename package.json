@@ -2,7 +2,7 @@
     "name": "homebridge-blink-for-home",
     "displayName": "Blink for Home",
     "private": false,
-    "version": "3.9.2",
+    "version": "3.9.3",
     "description": "Blink for Home Cameras for homebridge",
     "license": "MIT",
     "keywords": [
@@ -20,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com:colinbendell/homebridge-blink-for-home.git"
+        "url": "git@github.com:crb2nu/homebridge-blink-for-home.git"
     },
     "engines": {
         "node": ">=16",
